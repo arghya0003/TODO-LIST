@@ -3,6 +3,7 @@ A sleek and minimalistic To-Do List web app built with simplicity in mind. Easil
 
 
 🌟 Features
+
 📋 Add new tasks instantly
 
 ✅ Mark tasks as done (optional toggle logic if you’ve implemented it)
@@ -16,6 +17,7 @@ A sleek and minimalistic To-Do List web app built with simplicity in mind. Easil
 👨‍💻 Made with love by Arghya Bhattacharya
 
 💻 Tech Stack
+
 HTML5
 
 CSS3
