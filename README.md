@@ -1,8 +1,8 @@
-#To-Do List
-
 A sleek and minimalistic To-Do List web app built with simplicity in mind. Easily manage your tasks with an intuitive interface.
 
-🌟 Features-
+
+
+🌟 Features
 📋 Add new tasks instantly
 
 ✅ Mark tasks as done (optional toggle logic if you’ve implemented it)
@@ -13,8 +13,9 @@ A sleek and minimalistic To-Do List web app built with simplicity in mind. Easil
 
 💡 Clean and responsive UI
 
+👨‍💻 Made with love by Arghya Bhattacharya
 
-💻 Tech Stack-
+💻 Tech Stack
 HTML5
 
 CSS3
