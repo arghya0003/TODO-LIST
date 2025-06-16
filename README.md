@@ -1,4 +1,4 @@
-# TODO-LIS
+#📝 To-Do List
 A sleek and minimalistic To-Do List web app built with simplicity in mind. Easily manage your tasks with an intuitive interface.
 
 🌟 Features
